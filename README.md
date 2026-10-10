@@ -55,7 +55,6 @@ Pretrained-model calibration is not included. See [disclosures](docs/DISCLOSURES
 ## Release documentation
 
 - [Run it locally](docs/RUN_LOCALLY.md)
-- [Publish to GitHub](docs/GITHUB_PUBLISH.md)
 - [Submission checklist and demo script](docs/SUBMISSION.md)
 - [Build and publishing guide](docs/PUBLISHING.md)
 - [Architecture](docs/CONTEXT.md)
