@@ -1,0 +1,22 @@
+[
+  { "id": "gcash", "name": "GCash", "aliases": ["g-cash", "gcash", "g cash"], "category": "ewallet", "officialDomains": ["gcash.com"], "verified": true },
+  { "id": "maya", "name": "Maya", "aliases": ["maya", "paymaya", "pay maya"], "category": "ewallet", "officialDomains": ["maya.ph", "paymaya.com"], "verified": true },
+  { "id": "bdo", "name": "BDO", "aliases": ["bdo", "bdo unibank"], "category": "bank", "officialDomains": ["bdo.com.ph"], "verified": true },
+  { "id": "bpi", "name": "BPI", "aliases": ["bpi", "bank of the philippine islands"], "category": "bank", "officialDomains": ["bpi.com.ph"], "verified": true },
+  { "id": "metrobank", "name": "Metrobank", "aliases": ["metrobank", "metro bank"], "category": "bank", "officialDomains": ["metrobank.com.ph"], "verified": true },
+  { "id": "unionbank", "name": "UnionBank", "aliases": ["unionbank", "union bank"], "category": "bank", "officialDomains": ["unionbankph.com"], "verified": true },
+  { "id": "shopee", "name": "Shopee", "aliases": ["shopee"], "category": "shopping", "officialDomains": ["shopee.ph"], "verified": true },
+  { "id": "lazada", "name": "Lazada", "aliases": ["lazada"], "category": "shopping", "officialDomains": ["lazada.com.ph"], "verified": true },
+  { "id": "grab", "name": "Grab", "aliases": ["grab", "grabpay", "grab pay"], "category": "transport", "officialDomains": ["grab.com"], "verified": true },
+  { "id": "jnt", "name": "J&T Express", "aliases": ["j&t", "jnt", "j and t", "j&t express"], "category": "courier", "officialDomains": ["jtexpress.ph"], "verified": true },
+  { "id": "lbc", "name": "LBC", "aliases": ["lbc", "lbc express"], "category": "courier", "officialDomains": ["lbcexpress.com"], "verified": true },
+  { "id": "globe", "name": "Globe", "aliases": ["globe", "globe telecom"], "category": "telco", "officialDomains": ["globe.com.ph"], "verified": true },
+  { "id": "smart", "name": "Smart", "aliases": ["smart", "smart communications"], "category": "telco", "officialDomains": ["smart.com.ph"], "verified": true },
+  { "id": "sss", "name": "SSS", "aliases": ["sss", "social security system"], "category": "government", "officialDomains": ["sss.gov.ph"], "verified": true },
+  { "id": "pagibig", "name": "Pag-IBIG", "aliases": ["pag-ibig", "pagibig", "pag ibig", "hdmf"], "category": "government", "officialDomains": ["pagibigfund.gov.ph"], "verified": true },
+  { "id": "philhealth", "name": "PhilHealth", "aliases": ["philhealth", "phil health"], "category": "government", "officialDomains": ["philhealth.gov.ph"], "verified": true },
+  { "id": "lto", "name": "LTO", "aliases": ["lto", "land transportation office"], "category": "government", "officialDomains": ["lto.gov.ph"], "verified": true },
+  { "id": "coins", "name": "Coins.ph", "aliases": ["coins", "coins.ph", "coinsph"], "category": "crypto", "officialDomains": ["coins.ph"], "verified": true },
+  { "id": "cimb", "name": "CIMB", "aliases": ["cimb", "cimb bank"], "category": "bank", "officialDomains": ["cimb.com.ph"], "verified": true },
+  { "id": "facebook", "name": "Facebook", "aliases": ["facebook", "fb", "meta"], "category": "social", "officialDomains": ["facebook.com", "fb.com"], "verified": true }
+]

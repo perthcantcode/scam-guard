@@ -1,0 +1,13 @@
+node_modules/
+dist/
+public/ort/
+public/tesseract/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+# Original personal planning material; retained locally.
+scam-guard-master-plan.md
+scam-guard-prompts.md

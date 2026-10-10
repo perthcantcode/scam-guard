@@ -1,0 +1,24 @@
+{
+  "name": "scam-guard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "postinstall": "node scripts/prepare-assets.mjs",
+    "predev": "node scripts/prepare-assets.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/prepare-assets.mjs",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test src/engine/__tests__/engine.test.js src/db/storage.test.js",
+    "setup:ocr": "node scripts/download-ocr.mjs",
+    "verify:offline": "node scripts/verify-offline.mjs"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.1",
+    "dexie": "^4.4.6",
+    "tesseract.js": "^7.0.0",
+    "vite": "^8.3.4",
+    "vite-plugin-pwa": "^2.0.0"
+  }
+}
